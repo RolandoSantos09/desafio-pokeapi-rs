@@ -1,0 +1,8 @@
+body {
+  background-image: url(/src/assets/images/fondo\ azul.jpg);
+}
+
+.col {
+  width: 30em;
+  margin-left: 31%;
+}
